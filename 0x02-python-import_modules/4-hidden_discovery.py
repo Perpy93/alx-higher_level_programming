@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-if _name_ == "_main_":
+if __name__ == "__main__":
     import hidden_4
     # Print sorted name from directory
     for name in sorted(dir(hidden_4)):
