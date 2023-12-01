@@ -1,2 +1,2 @@
 #!/usr/bin/python3
-print("#pythonisgood")
+import easy_print
