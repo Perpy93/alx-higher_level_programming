@@ -5,13 +5,11 @@
 
 
 class Square:
-
-    """Defines a square."""
+    """Represent a square."""
 
 
     def _init_(self, size):
-
-        """Constructor.
+        """Initialize a new Square.
 
         Args:
 
